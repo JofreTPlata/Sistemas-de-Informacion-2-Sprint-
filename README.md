@@ -2,7 +2,7 @@
 **Proyecto:** Admisiones — Examen de Ingreso (UMSS)  
 **Equipo:** [Ana, Pedro, Carla, Luis, María]  
 **Sprint:** 7 días  
-**Fecha inicio:** [YYYY-MM-DD] — **Fecha fin:** [YYYY-MM-DD]  
+**Fecha inicio:** [2025-09-23] — **Fecha fin:** [2025-09-30]  
 **Metodología:** Scrum / Iteración fija (Sprint)  
 **Motto:** "La mejora continua es la clave del éxito"
 
@@ -19,7 +19,7 @@ El sprint entrega funcionalidades mínimas operativas con evidencia verificable 
 
 ---
 
-## 🧾 Resumen ejecutivo
+## 🧾 Resumen 
 En este Sprint 1 se planificaron **24 subtareas** derivadas de 4 historias principales. Cada subtarea tiene responsable, estimación en horas, y se exige evidencia para considerar la tarea completada (Definition of Done). El control del avance se hará con un **Task Board** (TASK / IN PROGRESS / DONE) y un **Burndown Chart** actualizado diariamente. Se mantiene trazabilidad con convenciones de nombres en archivos y commits.
 
 ---
@@ -98,12 +98,7 @@ En este Sprint 1 se planificaron **24 subtareas** derivadas de 4 historias princ
 ## 📸 Evidencia diaria requerida (Day1..Day7)
 Por cada día del sprint se debe entregar una carpeta `Sprint1/Day{n}/` con:
 
-- `Sprint1_Day{n}_YYYYMMDD_Board.jpg` — foto o captura del tablero (legible).  
-- `Sprint1_Day{n}_YYYYMMDD_Burndown.png` — gráfico burndown actualizado.  
-- `Sprint1_Day{n}_YYYYMMDD_DailyLog.md` — plantilla rellenada (responsable snapshot, tareas completadas con SubtaskID, bloqueos, commits/PR).  
-- Evidencias por subtask completada: `{SubtaskID}_{shortdesc}_YYYYMMDD.{ext}` (ej.: `02.02_QR_20250918.png`).  
-- `versioning_log.md` o `gitlog_YYYYMMDD.txt` con últimos commits/PR (si aplica).  
-- `Sprint1_Day{n}_YYYYMMDD_Summary.pdf` (opcional, 1 página resumen del día).
+- Screenshot, Fotografias de como fuimos realizando la actividad
 
 **Formato obligatorio:** usa exactamente los nombres de archivo sugeridos para facilitar revisión.
 
