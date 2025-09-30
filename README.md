@@ -42,29 +42,29 @@ En este Sprint 1 se planificaron **24 subtareas** derivadas de 4 historias princ
 
 | SubtaskID | Historia | Título (subtask)                                                    | Asignado | EstH |
 |-----------|---------:|---------------------------------------------------------------------|----------|-----:|
-| 01.01     | US-01    | Especificación de campos y reglas de validación                     | Ana      | 4    |
-| 01.02     | US-01    | Implementar interfaz de registro (formulario)                       | Pedro    | 6    |
-| 01.03     | US-01    | Validación front/back de credenciales y campos                      | Carla    | 4    |
-| 01.04     | US-01    | Generar comprobante con ID único y exportar a PDF                   | Luis     | 4    |
-| 01.05     | US-01    | Integración con base de datos y pruebas de integridad               | María    | 4    |
-| 02.01     | US-02    | Diseño de interfaz de pago (QR y transacción)                       | Ana      | 4    |
-| 02.02     | US-02    | Implementar generación y visualización de QR de pago                | Pedro    | 4    |
-| 02.03     | US-02    | Implementar pago por transacción (simulación / pasarela)           | Carla    | 6    |
-| 02.04     | US-02    | Flujo de confirmación y espera de validación de pago                | Luis     | 4    |
-| 02.05     | US-02    | Interfaz y mensajes de error de pago                                | María    | 3    |
-| 02.06     | US-02    | Instrucciones de pago (texto y PDF)                                 | Ana      | 2    |
-| 03.01     | US-03    | Implementar login de postulante                                    | Pedro    | 4    |
-| 03.02     | US-03    | Interfaz de consulta de documentación y nota                        | Carla    | 4    |
-| 03.03     | US-03    | Gestión UI de errores de credenciales                               | Luis     | 3    |
-| 03.04     | US-03    | Pruebas de visualización y privacidad                               | María    | 4    |
-| 04.01     | US-04    | Interfaz para listar pagos pendientes y comprobantes                | Ana      | 6    |
-| 04.02     | US-04    | Visualización y verificación de comprobantes                        | Pedro    | 4    |
-| 04.03     | US-04    | Marcar postulante como habilitado y actualizar estado               | Carla    | 4    |
-| 04.04     | US-04    | Generar constancia/acta de validación (PDF con metadatos)           | Luis     | 4    |
-| 04.05     | US-04    | Notificación al postulante con instrucciones de subsanación         | María    | 2    |
-| 04.06     | US-04    | Registro de auditoría (quién validó, cuándo, comprobante id)        | Ana      | 4    |
-| MISC.01   | Cross    | Integración end-to-end (pago ↔ registro ↔ validación)               | Pedro    | 6    |
-| MISC.02   | Cross    | Documentación operativa y guía de usuario/funcionamiento            | Carla    | 4    |
+| 01.01     | US-01    | Especificación de campos y reglas de validación                     | Jose     | 4    |
+| 01.02     | US-01    | Implementar interfaz de registro (formulario)                       | Jofre / Jose    | 6    |
+| 01.03     | US-01    | Validación front/back de credenciales y campos                      | Alberto    | 4    |
+| 01.04     | US-01    | Generar comprobante con ID único y exportar a PDF                   | Alberto     | 4    |
+| 01.05     | US-01    | Integración con base de datos y pruebas de integridad               | Jofre / Jose    | 4    |
+| 02.01     | US-02    | Diseño de interfaz de pago (QR y transacción)                       | Alberto      | 4    |
+| 02.02     | US-02    | Implementar generación y visualización de QR de pago                | Jose / Jofre    | 4    |
+| 02.03     | US-02    | Implementar pago por transacción (simulación / pasarela)           |  Gerson    | 6    |
+| 02.04     | US-02    | Flujo de confirmación y espera de validación de pago                | Gerson     | 4    |
+| 02.05     | US-02    | Interfaz y mensajes de error de pago                                | Gerson    | 3    |
+| 02.06     | US-02    | Instrucciones de pago (texto y PDF)                                 | Gerson / Alejadra      | 2    |
+| 03.01     | US-03    | Implementar login de postulante                                    | Alberto / Alejandra    | 4    |
+| 03.02     | US-03    | Interfaz de consulta de documentación y nota                        | Jose / Jofre    | 4    |
+| 03.03     | US-03    | Gestión UI de errores de credenciales                               | Jofre / Jose     | 3    |
+| 03.04     | US-03    | Pruebas de visualización y privacidad                               | Gerson    | 4    |
+| 04.01     | US-04    | Interfaz para listar pagos pendientes y comprobantes                | Alejandra      | 6    |
+| 04.02     | US-04    | Visualización y verificación de comprobantes                        | Alejandra    | 4    |
+| 04.03     | US-04    | Marcar postulante como habilitado y actualizar estado               | Alejandra    | 4    |
+| 04.04     | US-04    | Generar constancia/acta de validación (PDF con metadatos)           | Gerson / Alejandra     | 4    |
+| 04.05     | US-04    | Notificación al postulante con instrucciones de subsanación         | Gerson    | 2    |
+| 04.06     | US-04    | Registro de auditoría (quién validó, cuándo, comprobante id)        | Gerson      | 4    |
+| MISC.01   | Cross    | Integración end-to-end (pago ↔ registro ↔ validación)               | Alejandra    | 6    |
+| MISC.02   | Cross    | Documentación operativa y guía de usuario/funcionamiento            | Gerson    | 4    |
 
 ---
 
